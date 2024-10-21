@@ -5,6 +5,6 @@ export const aboutMeData = [
 	},
 	{
 		id: 2,
-		bio: 'I also have a passion for AI and machine learning. One of my notable projects involved creating an AI-driven golf swing analysis system that provides real-time feedback, merging AI with practical user applications. I continually seek new challenges and enjoy taking on leadership roles, such as serving as Vice President (Engagement) of the ICT Faculty\'s Student Management Committee, where I led initiatives for student well-being and mental health. Looking ahead, I aim to continue contributing to projects that blend innovative tech with meaningful impact, helping to shape a future where technology is more intuitive and accessible.?',
+		bio: 'I also have a passion for AI and machine learning. One of my notable projects involved creating an AI-driven golf swing analysis system that provides real-time feedback, merging AI with practical user applications. I continually seek new challenges and enjoy taking on leadership roles, such as serving as Vice President (Engagement) of the ICT Faculty\'s Student Management Committee, where I led initiatives for student well-being and mental health. Looking ahead, I aim to continue contributing to projects that blend innovative tech with meaningful impact, helping to shape a future where technology is more intuitive and accessible.',
 	},
 ];
